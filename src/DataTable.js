@@ -12,9 +12,10 @@ import {
   StyleSheet,
   View,
   ViewPropTypes,
+  ListView
 } from 'react-native';
 
-import { ListView } from 'realm/react-native';
+//import { ListView } from 'realm/react-native';
 
 export class DataTable extends React.Component {
   constructor(props) {
